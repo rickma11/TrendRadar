@@ -105,8 +105,6 @@ platforms:
     name: "hackernews"
   - id: "steam"
     name: "steam"
-  - id: "smzdm"
-    name: "什么值得买"
   - id: "nowcoder"
     name: "nowcoder"
   - id: "github"
